@@ -17,6 +17,19 @@
   </a>
 </p>
 
+<h2 align="center"> 💻 Skills</h2>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring"/>
+  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="hibernate"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg" alt="aws ecs"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-ar21.svg" alt="aws ecr"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase admin for java"/>
+  <img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" alt="gradle for java"/>
+  <img src="https://www.vectorlogo.zone/logos/lucidchart/lucidchart-ar21.svg" alt="lucidchart for draw database diagrams"/>
+  <img src="hhttps://www.vectorlogo.zone/logos/twilio/twilio-ar21.svg" alt="twillio mail sender"/>
+</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beksultancs&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beksultancs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
