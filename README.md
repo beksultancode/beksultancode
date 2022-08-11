@@ -2,7 +2,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>Software Engineer @peaksoft</samp>
+  <samp>Software Engineer <a href="https://github.com/mypeaksoft"> @Peaksoft </a></samp>
 </p>
 
 <p align="center">
