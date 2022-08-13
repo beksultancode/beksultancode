@@ -28,6 +28,8 @@
   <img src="https://www.vectorlogo.zone/logos/lucidchart/lucidchart-ar21.svg" alt="lucidchart for draw database diagrams"/>
   <img src="https://www.vectorlogo.zone/logos/twilio/twilio-ar21.svg" alt="twillio mail sender"/>
   <img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"/>
+  
   
 
 </p>
