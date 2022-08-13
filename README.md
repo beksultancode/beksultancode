@@ -27,6 +27,9 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase admin for java"/>
   <img src="https://www.vectorlogo.zone/logos/lucidchart/lucidchart-ar21.svg" alt="lucidchart for draw database diagrams"/>
   <img src="https://www.vectorlogo.zone/logos/twilio/twilio-ar21.svg" alt="twillio mail sender"/>
+  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"/>
+  
+
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beksultancs&count_private=true)
