@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center"> Beksultan </h2>
 <p align="center">
   <samp>Software Engineer <a href="https://github.com/mypeaksoft"> @Peaksoft </a></samp>
 </p>
