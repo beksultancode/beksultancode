@@ -29,15 +29,12 @@
   <img src="https://www.vectorlogo.zone/logos/twilio/twilio-ar21.svg" alt="twillio mail sender"/>
   <img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"/>
-  
-  
-
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beksultancs&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beksultancs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 <!--
 **beksultancs/beksultancs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
