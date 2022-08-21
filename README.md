@@ -17,35 +17,3 @@
   </a>
 </p>
 
-<h2 align="center"> 💻 Skills</h2>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring"/>
-  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="hibernate"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg" alt="aws ecs"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-ar21.svg" alt="aws ecr"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase admin for java"/>
-  <img src="https://www.vectorlogo.zone/logos/lucidchart/lucidchart-ar21.svg" alt="lucidchart for draw database diagrams"/>
-  <img src="https://www.vectorlogo.zone/logos/twilio/twilio-ar21.svg" alt="twillio mail sender"/>
-  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"/>
-</p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beksultancs&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beksultancs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-<!--
-**beksultancs/beksultancs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
