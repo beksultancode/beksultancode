@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=44C6F7&center=true&vCenter=true&width=1000&lines=I'm+Beksultan+Mamatkadyr+uulu)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Beksultan+Mamatkadyr+uulu)](https://git.io/typing-svg)
 
 <p align="center">
   <samp>Software Engineer at <a href="https://github.com/mypeaksoft"> @Peaksoft </a></samp>
@@ -17,8 +17,8 @@
 </p>
 
 <div align="center">
-<img src="https://go.dev/images/gophers/pilot-bust.svg" width="150" height="150"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/openjdk-white.svg" width="150" height="150"/>
+<img src="https://go.dev/images/gophers/pilot-bust.svg" width="200" height="200"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/openjdk-white.svg" width="200" height="200"/>
 </div>
 
 
