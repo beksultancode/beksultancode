@@ -16,3 +16,6 @@
   </a>
 </p>
 
+<div align="center">
+<img src="https://go.dev/images/gophers/pilot-bust.svg" width="150" height="150"/>
+</div>
