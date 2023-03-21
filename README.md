@@ -16,10 +16,5 @@
   </a>
 </p>
 
-<div align="center">
-<img src="https://go.dev/images/gophers/pilot-bust.svg" width="200" height="200"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/openjdk-white.svg" width="200" height="200"/>
-</div>
-
 
 
