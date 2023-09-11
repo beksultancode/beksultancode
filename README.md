@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Beksultan+Mamatkadyr+uulu)](https://git.io/typing-svg)
 
 <p align="center">
-  <samp>Software Engineer at <a href="https://github.com/mypeaksoft"> @Peaksoft </a></samp>
+  <samp>Software Engineer</samp>
 </p>
 
 <p align="center">
