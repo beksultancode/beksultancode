@@ -3,7 +3,9 @@
 <p align="center">
   <samp>Software Engineer</samp>
 </p>
-
+<div align="center">
+  <img width="300" height="300" src="https://img.icons8.com/plasticine/1000/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+</div>
 <p align="center">
   <a href="https://www.linkedin.com/in/beksultan-mamatkadyr-uulu-604855238" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="emre-savcı" />
