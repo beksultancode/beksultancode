@@ -3,9 +3,7 @@
 
 - 📫 How to reach me **beksultancs@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=beksultancode)](https://github.com/beksultancode/leetcode-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
