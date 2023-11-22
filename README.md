@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beksultan</h1>
 <h3 align="center">Spring Boot Developer</h3>
 
-- 📫 How to reach me **beksultancs@gmail.com**
-
 <p align="center">
 <a href="https://dev.to/beksultandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="beksultandev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/beksultandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beksultandev" height="30" width="40" /></a>
